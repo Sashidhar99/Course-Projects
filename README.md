@@ -1,2 +1,2 @@
 # capstone-project
-Data Science Student At SAIT
+Data Science Student at SAIT
