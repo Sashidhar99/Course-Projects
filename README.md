@@ -7,4 +7,4 @@ I designed a hospital database system to manage patients, staff, appointments, b
 **Project-2: Analytic Solution of Calgary Traffic Incidents**
 This project analyzes Calgary’s traffic incident data to uncover key trends. Using Power BI, I visualized total incidents, peak hours, high-risk locations, and response times through bar graphs, heatmaps, and pie charts. The insights help improve traffic management and emergency response strategies.
 
- **[Learn more](https://github.com/Sashidhar99/Course-Projects/blob/5f00d3e7c035f92b13a95d4b2311ee3c8dd3447f/Report%20on%20Analytic%20Solution%20Of%20Calgary%20Traffic%20Incident%20Analysis.pdf)**
+🔗 **[Learn more](https://github.com/Sashidhar99/Course-Projects/blob/5f00d3e7c035f92b13a95d4b2311ee3c8dd3447f/Report%20on%20Analytic%20Solution%20Of%20Calgary%20Traffic%20Incident%20Analysis.pdf)**
