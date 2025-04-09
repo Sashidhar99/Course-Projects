@@ -8,3 +8,9 @@ I designed a hospital database system to manage patients, staff, appointments, b
 This project analyzes Calgary’s traffic incident data to uncover key trends. Using Power BI, I visualized total incidents, peak hours, high-risk locations, and response times through bar graphs, heatmaps, and pie charts. The insights help improve traffic management and emergency response strategies.
 
 🔗 **[Learn more](https://github.com/Sashidhar99/Course-Projects/blob/5f00d3e7c035f92b13a95d4b2311ee3c8dd3447f/Report%20on%20Analytic%20Solution%20Of%20Calgary%20Traffic%20Incident%20Analysis.pdf)**
+
+**Project-3: Cloud Architecture for Airports Operations “AeroCloud**
+
+In this project, I developed a cloud-based architecture for smart airport operations. I integrated data from IoT devices, biometrics, flight APIs, and retail systems to enable real-time monitoring and decision-making. The data pipeline was built using Azure services like IoT Hub, Data Lake, Stream Analytics, and Synapse. This architecture helps airports enhance efficiency, security, and traveler experience through a data-driven approach.
+
+🔗 **[Learn more](https://github.com/Sashidhar99/Course-Projects/blob/5a2397d2a642948971a786b5d74732ec8a70c4a8/Cloud%20Architecture%20for%20Airport%20Operations_Article.pdf)**
