@@ -21,3 +21,7 @@ This project showcases my hands-on practice with Azure data engineering tools wh
 🔗 **[Learn more](https://github.com/Sashidhar99/Course-Projects/blob/b31bc3221c2306ab43d385bb0e2818139c707e7f/DP-203-Data%20Engineering%20on%20Microsoft%20Azure.zip)**
 
 
+**Azure DP-500: Enterprise Data Analytics on Azure**
+This project highlights my practical work from Azure DP-500 labs, focused on designing and implementing enterprise-scale analytics solutions. I worked with Azure Synapse Analytics, Power BI, and Azure Purview to build and optimize analytical models, manage data governance, and create advanced visualizations. The documentation includes lab steps, learnings, and real-world applications of building data-driven solutions for business intelligence.
+
+🔗 **[Learn more](https://github.com/Sashidhar99/Course-Projects/blob/35fdce3c52ac8c112e249f54df022f863a0e7d2b/DP-500-Designing%20and%20Implementing%20Enterprise)**
