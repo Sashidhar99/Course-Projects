@@ -31,3 +31,8 @@ This project highlights my practical work from Azure DP-500 labs, focused on des
 This project contains a collection of Python scripts I developed for data analysis, cleaning, and automation tasks. Using libraries like Pandas, NumPy, and Matplotlib, I built scripts for handling datasets, generating visualizations, and automating repetitive workflows. These scripts reflect my practical skills in applying Python to solve real-world data problems efficiently.
 🔗 **[Learn more](https://github.com/Sashidhar99/Course-Projects/blob/ff8eb3e4ffe73f3d21cfb4529abbed6231d31bf6/Python%20Practice%20file%201.7z)**
 🔗 **[Learn more](https://github.com/Sashidhar99/Course-Projects/blob/ff8eb3e4ffe73f3d21cfb4529abbed6231d31bf6/Python-Practice%20files.7z)**
+
+
+**(Project: Supervised Learning — Classification**
+Built and tested classification models using Python (scikit-learn) to predict target outcomes. Applied algorithms like Logistic Regression, Decision Trees, and Random Forest, with model evaluation through accuracy scores and confusion matrices.
+🔗 **[Learn more](https://github.com/Sashidhar99/Course-Projects/blob/b10833a5bb9080a8d9676e179227895180a89802/Supervised%20Learning%20%E2%80%94%20Classification(Assignment-1).docx)**
