@@ -14,3 +14,9 @@ This project analyzes Calgary’s traffic incident data to uncover key trends. U
 In this project, I developed a cloud-based architecture for smart airport operations. I integrated data from IoT devices, biometrics, flight APIs, and retail systems to enable real-time monitoring and decision-making. The data pipeline was built using Azure services like IoT Hub, Data Lake, Stream Analytics, and Synapse. This architecture helps airports enhance efficiency, security, and traveler experience through a data-driven approach.
 
 🔗 **[Learn more](https://github.com/Sashidhar99/Course-Projects/blob/5a2397d2a642948971a786b5d74732ec8a70c4a8/Cloud%20Architecture%20for%20Airport%20Operations_Article.pdf)**
+
+**Azure-DP203 :Data Engineering on Microsoft Azure**
+This project showcases my hands-on practice with Azure data engineering tools while preparing for the DP-203 certification. I completed multiple labs focusing on data ingestion, transformation, and storage using services like Azure Data Lake, Data Factory, Synapse Analytics, and Databricks. I documented each lab with step-by-step guides and insights. These exercises strengthened my skills in building scalable data pipelines and managing data solutions in the cloud.
+
+🔗 **[Learn more][DP-203-Data Engineering on Microsoft Azure.zip](https://github.com/Sashidhar99/Course-Projects/blob/5ccda77b6299f6b1dd76dd3285fb98c7f736d1db/DP-203-Data%20Engineering%20on%20Microsoft%20Azure.zip)**
+
