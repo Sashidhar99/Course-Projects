@@ -36,3 +36,7 @@ This project contains a collection of Python scripts I developed for data analys
 **(Project: Supervised Learning — Classification**
 Built and tested classification models using Python (scikit-learn) to predict target outcomes. Applied algorithms like Logistic Regression, Decision Trees, and Random Forest, with model evaluation through accuracy scores and confusion matrices.
 🔗 **[Learn more](https://github.com/Sashidhar99/Course-Projects/blob/b10833a5bb9080a8d9676e179227895180a89802/Supervised%20Learning%20%E2%80%94%20Classification(Assignment-1).docx)**
+
+**Capstone Project:Credit Card Fraud Detection**
+Developed and deployed machine learning models to detect fraudulent credit card transactions in real-time. Applied algorithms including Logistic Regression, XGBoost, and Random Forest, with Random Forest achieving 99.86% accuracy and F1-score. Addressed class imbalance using SMOTE, conducted feature engineering and visualization, and validated models through confusion matrices and performance metrics.
+🔗 **[Learn more]https://github.com/Sashidhar99/Course-Projects/blob/91f6dbaaa5fd62cc5390521b6789f80836790145/Credit_card_Fraud_detection_Capstone_Project.pdf**
